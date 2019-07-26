@@ -1,0 +1,4 @@
+enter number of elements
+successful insertion
+inorder traversal of the tree
+2 3 6 8 9 
